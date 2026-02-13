@@ -40,3 +40,5 @@ Projede sınıflandırma yaklaşımları kullanılmıştır:
 ## 📂 Dosya Yapısı
 - `inme_tahmini.ipynb`: Veri temizleme, görselleştirme, SMOTE uygulaması ve modelleme adımlarını içeren ana notebook.
 - `healthcare-dataset-stroke-data.csv`: Projede kullanılan ham veri seti.
+
+**⚠️ Önemli Uyarı:** Bu proje eğitim ve araştırma amaçlı bir akademik çalışmadır. Üretilen sonuçlar ve tahminler tıbbi tavsiye niteliği taşımaz. Gerçek bir teşhis veya tedavi süreci için mutlaka bir uzman hekime danışınız.
